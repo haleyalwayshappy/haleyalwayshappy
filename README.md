@@ -2,8 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Haley%20World🥳&fontSize=60)
 
-
-    ### Since 2020/08/06 ~ ing!
+#### Since 2020/08/06 ~ ing!
    
 <br>
     
