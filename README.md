@@ -39,7 +39,8 @@
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)](https://github.com/haleyalwayshappy)
 
 
-
+<br>
+<br>
 
 ##### TODAY #####
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaleyalwayshappy&count_bg=%23FF009D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
