@@ -5,7 +5,7 @@
 ### Since 2020/08/06 ~ ing!
 <br>
 
-`INTRODUCE`
+`INTRODUCE` <br>
 🐣 신입사원 Java developer 입니다! 아직도 갈길이 태산 😩 <br>
 🥰 사람을 좋아하는 ENFP 입니다! 환영해요! <br>
 🌱 무럭 무럭 자라기 위해 늘 노력합니다!<br>
@@ -13,15 +13,15 @@
 🎵 음악을 사랑합니다. <br>
 🧶 취미는 뜨개질 입니다.
 
-`TECH`
+`TECH`<br>
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=black)]()
-[![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=black)]()
+[![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=black)]() <br>
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)]()
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=black)]()
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)]()
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)]() <br>
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black)]()
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)]()
