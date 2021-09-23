@@ -4,7 +4,8 @@
 
 ### Since 2020/08/06 ~ ing!
 <br>
-
+<br>
+----
 #### 💖INTRODUCE💖 ####
 🐣 신입사원 Java developer 입니다! 아직도 갈길이 태산 😩 <br>
 🥰 사람을 좋아하는 ENFP 입니다! 환영해요! <br>
@@ -12,7 +13,12 @@
 ✨ Hello World를 처음 출력하던 순간을 기억합니다.<br>
 🎵 음악을 사랑합니다. <br>
 🧶 취미는 뜨개질 입니다.
-
+   
+<br>
+<br>
+<br>
+    
+----
 #### 💻TECH💻 ####
 [![Html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html5&logoColor=black)](https://github.com/haleyalwayshappy)
 [![Css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=black)](https://github.com/haleyalwayshappy)
