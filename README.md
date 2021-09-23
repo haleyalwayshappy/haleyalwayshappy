@@ -7,9 +7,9 @@
 
 ### Since 2020/08/06 ~ ing!
 
-- 🐣 신입사원 `java` developer 입니다. 
-- 🥰 사람을 좋아하는 ENFP 입니다! 환영해요! 
-- 🌱 무럭 무럭 자라기 위해 늘 노력합니다!
+🐣 신입사원 `java` developer 입니다. 
+🥰 사람을 좋아하는 ENFP 입니다! 환영해요! 
+🌱 무럭 무럭 자라기 위해 늘 노력합니다!
 
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaleyalwayshappy&count_bg=%23FF009D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
