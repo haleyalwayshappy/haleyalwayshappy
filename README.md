@@ -5,9 +5,9 @@
 ### Since 2020/08/06 ~ ing!
 <br>
 <br>
-----
+
    
-#### 💖INTRODUCE💖 ####
+#### 💖INTRODUCE💖
 🐣 신입사원 Java developer 입니다! 아직도 갈길이 태산 😩 <br>
 🥰 사람을 좋아하는 ENFP 입니다! 환영해요! <br>
 🌱 무럭 무럭 자라기 위해 늘 노력합니다!<br>
@@ -19,8 +19,8 @@
 <br>
 <br>
     
-----
-#### 💻TECH💻 ####
+
+#### 💻TECH💻
 [![Html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html5&logoColor=black)](https://github.com/haleyalwayshappy)
 [![Css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=black)](https://github.com/haleyalwayshappy)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/haleyalwayshappy) <br>
