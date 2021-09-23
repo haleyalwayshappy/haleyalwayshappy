@@ -3,10 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Haley%20World🥳&fontSize=60)
 
 ### Since 2020/08/06 ~ ing!
-<br>
-<br>
-
-   
+<br> 
 ### 💖INTRODUCE💖
 🐣 신입사원 Java developer 입니다! 아직도 갈길이 태산 😩 <br>
 🥰 사람을 좋아하는 ENFP 입니다! 환영해요! <br>
@@ -14,8 +11,6 @@
 ✨ Hello World를 처음 출력하던 순간을 기억합니다.<br>
 🎵 음악을 사랑합니다. <br>
 🧶 취미는 뜨개질 입니다.
-   
-
 <br><br><br>
     
 #### 💻TECH💻
@@ -34,14 +29,11 @@
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black)](https://github.com/haleyalwayshappy)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)](https://github.com/haleyalwayshappy)
-
-
-<br><br><br><br>
+<br><br><br>
 
 ##### TODAY #####
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaleyalwayshappy&count_bg=%23FF009D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
-    
 </div>
 
 
