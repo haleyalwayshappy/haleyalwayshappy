@@ -4,13 +4,7 @@
 
 ### Since 2020/08/06 ~ ing!
 ----
-- 🌱 코딩을 하며 매일 배움의 즐거움을 느끼고 있습니다! 무럭 무럭 자라는 중 입니다!
-- 😎 단순하고 편리한 UX를 고민합니다. 직관적인 디자인을 선호합니다. 
-- 🔥 하고자 한다면 안될것이 없다! 열정적으로 도전합니다!
-- 🧚🏻‍♀️ 도깨비 요술 방망이처럼 원하는 것을 뚝딱 뚝딱 만들어 낼 수 있을떄까지 열심히하자!
-- ✨ 세상을 아름답게 봅니다! 우리강산 푸르게 푸르게! (???)
-- 😎 https://haleyalwayshappy.github.io/haley_pages 저의 웹 사이트 입니다. 
-  </br>  피드백 주시면 반영하겠습니다!
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaleyalwayshappy&count_bg=%23FF009D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 ----
 </br>
 </br>
