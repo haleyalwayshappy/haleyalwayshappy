@@ -2,8 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Haley%20World🥳&fontSize=60)
 
-### Since 2020/08/06 ~ ing!
-<br> 
+
+    ### Since 2020/08/06 ~ ing!
+   
+<br>
+    
 ### 💖INTRODUCE💖
 🐣 신입사원 Java developer 입니다! 아직도 갈길이 태산 😩 <br>
 🥰 사람을 좋아하는 ENFP 입니다! 환영해요! <br>
