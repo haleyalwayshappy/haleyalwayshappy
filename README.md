@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Haley%20World!&fontSize=90)
 
-
+<div align="center">
 ## Hi there 👋
 
 **하고싶은건 하고 살아야하는 이홍은의 코딩 대 장정!**
@@ -9,6 +9,8 @@
 ----
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaleyalwayshappy&count_bg=%23FF009D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 ----
+    
+</div>
 </br>
 </br>
 
