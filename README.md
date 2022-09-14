@@ -1,11 +1,10 @@
 <div align="center">
-<<<<<<< HEAD
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=240&section=header&text=💖Haley%20World💖&fontSize=70)
    
 <br>
 
-![GitHub status](https://github-readme-stats.vercel.app/api?username=haleyalwayshappy&show_icons=true&theme=dracula)
+![Haley's GitHub status](https://github-readme-stats.vercel.app/api?username=haleyalwayshappy&show_icons=true&theme=dracula)
     
 <br>
 <br><br>
