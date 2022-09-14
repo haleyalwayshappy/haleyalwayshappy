@@ -1,15 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-**하고싶은건 하고 살아야하는 이홍은의 코딩 대 장정!**
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=240&section=header&text=💖Haley%20World💖&fontSize=70)
+   
+<br>
 
-### start 2020/08/06 ~ ing!
-----
-- 🌱 꿈은 잘 모르겠고, 코딩이 즐거워서 합니다. 이거로 돈벌이도 할 수 있으면 너 무 좋구요...
-- 🐣 배우는게 즐거운 삐약이 개발자! 뭘 잘하냐고 묻는다면 배우는걸 잘합니다. 아직 포지션은 잘 모르겠습니다..
-- 🔥 열정을 가지고 도전한다!
-- 🧚🏻‍♀️ 도깨비 요술 방망이처럼 원하는 것을 뚝딱 뚝딱 만들어 낼 수 있을떄까지 열심히하자!
-- 🤷🏻‍♀️ README.md 꾸미는거 어렵네요! 다들 뚝딱뚝딱하던데 기회가 된다면 도전해보겠습니다!
-- ✨ 세상을 아름답게 봅니다! 우리강산 푸르게 푸르게! (???)
+![GitHub status](https://github-readme-stats.vercel.app/api?username=haleyalwayshappy&show_icons=true&theme=dracula)
+    
+<br>
+<br><br>
+    
+#### 💻TECH💻
+[![Html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html5&logoColor=black)](https://github.com/haleyalwayshappy)
+[![Css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=black)](https://github.com/haleyalwayshappy)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/haleyalwayshappy) <br>
+
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)](https://github.com/haleyalwayshappy)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/haleyalwayshappy)
+[![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=black)](https://github.com/haleyalwayshappy)
+ <br>
+
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=black)](https://github.com/haleyalwayshappy)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](https://github.com/haleyalwayshappy)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/haleyalwayshappy) <br>
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black)](https://github.com/haleyalwayshappy)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)](https://github.com/haleyalwayshappy)
+<br><br><br>
+
+##### TODAY #####
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaleyalwayshappy&count_bg=%23FF009D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
 ----
 </br>
 </br>
